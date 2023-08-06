@@ -48,3 +48,9 @@ This repository contains the code and documentation for a smart home project tha
    - To turn off the electric bulb, send '2' again.
    - To start the DC motor, send '1'.
    - To stop the DC motor, send '1' again.
+
+## Demo
+
+https://github.com/suhailamohamed21/Smart-Home/assets/125570330/73bf4e03-0975-4c25-979f-024e36be777d
+
+## Made by:
