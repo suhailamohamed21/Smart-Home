@@ -33,6 +33,7 @@ This repository contains the code and documentation for a smart home project tha
 
 ## Circuit diagram
 
+![WhatsApp Image 2023-08-06 at 1 57 02 AM](https://github.com/suhailamohamed21/Smart-Home/assets/125570330/865424a6-b668-4487-9697-bcdb17e68868)
 
 ## Usage
 1. Install the Arduino IDE on your computer if you haven't already.
