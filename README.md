@@ -56,4 +56,4 @@ https://github.com/suhailamohamed21/Smart-Home/assets/125570330/94b2c90e-c6fa-42
 
 ## Made by:
 
-@+https://github.com/suhailamohamed21
+https://github.com/suhailamohamed21
