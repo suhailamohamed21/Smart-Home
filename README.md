@@ -38,7 +38,7 @@ This repository contains the code and documentation for a smart home project tha
 ## Usage
 1. Install the Arduino IDE on your computer if you haven't already.
 2. Connect the Arduino board to your computer using a USB cable.
-3. Open the `smart_home.ino` file in the Arduino IDE.
+3. Open the `smarthome.ino` file in the Arduino IDE.
 4. Upload the code to the Arduino board.
 5. Disconnect the Arduino from the computer and power it using an external power supply.
 6. Install a Bluetooth terminal app on your smartphone or any Bluetooth-enabled device.
