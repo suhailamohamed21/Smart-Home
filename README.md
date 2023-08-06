@@ -54,4 +54,5 @@ This repository contains the code and documentation for a smart home project tha
 
 https://github.com/suhailamohamed21/Smart-Home/assets/125570330/94b2c90e-c6fa-42f5-adff-45ea36484464
 
-
+## Made by:
+1. [Suhaila Mohamed](https://github.com/suhailamohamed21)
